@@ -6,15 +6,15 @@ It also contains jwt authentication and bcrypt library is used to protect passwo
 
 This project uses multer for file uploads, redux toolkit for state management , material ui for UI and a lot more tools like helmet, morgan, cors, dotenv etc.
 
-#clone or download
+# clone or download
 $ git clone 
 $ yarn # or npm i
 
-#client-side-usage(Port: 5173)
+# client-side-usage(Port: 5173)
 cd frontend 
 npm run dev
 
-#server-side-usage(Port: 8001)
+# server-side-usage(Port: 8001)
 cd backend
 node index.js
 
